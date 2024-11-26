@@ -49,9 +49,7 @@ body {
          color: #4a4a4a;
          text-align: right;
          padding: 10px 30px;
-         span {
-            color: #ffffff;
-         }
+         color: #ffffff;
       }
    }
    .keys {
